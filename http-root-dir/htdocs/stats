@@ -1,0 +1,5 @@
+Student Name: Tianyu Zhao (zhao 684).
+Server set up time: Fri Nov 30 13:53:53 2018
+Number of requests since the server started: 7
+minimum service time is 1.668738 ms when the URL is /stats
+maximum service time is 39.017479 ms when the URL is /logs
